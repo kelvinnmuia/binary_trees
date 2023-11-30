@@ -1,7 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_depth - Function for measuring the depth of a node in a binary tree
+ * binary_tree_depth - Function for measuring the depth of a node
+ * in a binary tree
  * @tree: A pointer to the node that measures the depth of a tree.
  *
  * Return: the function returns the depth or 0 if the tree is NULL
